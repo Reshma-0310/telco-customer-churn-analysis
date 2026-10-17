@@ -190,5 +190,5 @@ The notebook repeats the segment analysis in pandas (the numbers match the SQL r
 
 ## 11. Author
 
-**[Your Name]**
-[LinkedIn link] | [GitHub link]
+Reshma Shaik
+LinkedIn link: (https://www.linkedin.com/in/reshma-shaik-521268427)  | GitHub link: (https://github.com/Reshma-0310)
